@@ -1,0 +1,85 @@
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Display Candidates
+2. Display Voters
+3. Cast Vote
+4. Exit (only admin can access)
+Enter your choice: 1
+Candidates:
+mahesh
+ravi
+sunil
+subbareddy
+ram
+sai
+sandy
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Display Candidates
+2. Display Voters
+3. Cast Vote
+4. Exit (only admin can access)
+Enter your choice: 2
+Voters and their status:
+123: Voted
+456: Voted
+78: Voted
+65: Voted
+398: Voted
+578: Voted
+916: Voted
+125: Voted
+169: Voted
+132: Voted
+142: Voted
+143: Not voted
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Display Candidates
+2. Display Voters
+3. Cast Vote
+4. Exit (only admin can access)
+Enter your choice: 3
+Enter your voter id:
+143
+Candidates:
+mahesh
+ravi
+sunil
+subbareddy
+ram
+sai
+sandy
+Enter your preferred candidate name: ram
+You have successfully voted for ram
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Display Candidates
+2. Display Voters
+3. Cast Vote
+4. Exit (only admin can access)
+Enter your choice: 4
+Enter password to exit
+5478
+VOTING COMPLETED
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Declare Winner (only for admin)
+2.Exit (only admin can access)
+Enter choice
+1
+Enter the password:
+5478
+The winner of the election is mahesh with 3 votes.
+***********HEARTLY CONGRATULATIONS mahesh **************
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Declare Winner (only for admin)
+2.Exit (only admin can access)
+Enter choice
+2
+
