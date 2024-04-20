@@ -1,0 +1,114 @@
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 1
+Enter candidate name: ram
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 1
+Enter candidate name: sai
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 1
+Enter candidate name: ram
+Name already exists
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 1
+Enter candidate name: sandy
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 2
+Enter voter id: (it should be only three digits i.e 0 to 9)
+143
+
+*********************WELCOME TO ONLINE VOTING
+SYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 2
+Enter voter id: (it should be only three digits i.e 0 to 9)
+125
+This voter id already exits
+
+*********************WELCOME TO ONLINE VOTING
+SYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 2
+Enter voter id: (it should be only three digits i.e 0 to 9)
+123
+This voter id already exits
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 2
+Enter voter id: (it should be only three digits i.e 0 to 9)
+132
+This voter id already exits
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 2
+Enter voter id: (it should be only three digits i.e 0 to 9)
+142
+This voter id already exits
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 2
+Enter voter id: (it should be only three digits i.e 0 to 9)
+125
+This voter id already exits
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 2
+Enter voter id: (it should be only three digits i.e 0 to 9)
+169
+This voter id already exits
+
+*********************WELCOME TO ONLINE VOTINGSYSTEM***************************
+SRMAP 2023 STUDENT COUNCIL ELECTIONS
+1. Create Candidate
+2. Create Voter
+3.Exit (only admin can access)
+Enter your choice: 3
+Enter password to exit
+5478
+REGISTRATIONS COMPLETED
+
